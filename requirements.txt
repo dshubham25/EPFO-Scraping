@@ -1,0 +1,9 @@
+selenium
+pandas
+xlsx2csv
+pillow
+pytesseract
+torch
+tensorflow
+transformers
+opencv-python
